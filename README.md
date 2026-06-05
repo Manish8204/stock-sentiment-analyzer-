@@ -120,7 +120,7 @@ MIT License - feel free to use for educational purposes
 
 ## 👤 Author
 
-**Manish Sharma**
+**Manish Kumar**
 
 ---
 
